@@ -1,0 +1,19 @@
+pequeno: 32
+horizontal: 10
+vertical: 20
+grande: 6
+
+------------------------
+
+(1 vertical, 2 pequenos
+1 horizontal
+1 grande) x 6
+
+(1 vertical, 2 pequenos
+1 horizontal) x 4
+
+(2 verticais
+2 pequenos) x 5
+
+2 pequenos
+
